@@ -4,5 +4,8 @@
         <execute>
             no-command
         </execute>
+        <execute>
+            empty go
+        </execute>
     </body>
 </ip-script>
